@@ -3,14 +3,14 @@
 
 # Project Name
 Hello Microverse!
-> Description the project.
+> This Project is about Setting up reposatory ,understanding git hub flow ,setting up linter for html and css
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- VSCODE
 
 ## Live Demo (if available)
 
@@ -19,20 +19,26 @@ Hello Microverse!
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+#### Step 1:
 
+- Clone this repo locally using git in the command line and the following command
 
+  `git clone https://github.com/charpeamol/Hello-world`
+  
+- Alternatively, you can just download the complete zip file and extract the folder in your directory
+
+#### Step 2:
+Copy All Project files and run using VSCODE. HTML can be viewed in browser.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
+- VSCODE
 ### Setup
 
 ### Install
 
 ### Usage
-
+- For display for potential Hirers.
 ### Run tests
 
 ### Deployment
@@ -41,7 +47,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Amol Charpe**
 
 - GitHub: [@githubhandle](https://github.com/charpeamol)
 - Twitter: [@twitterhandle](https://twitter.com/charpe_amol)
